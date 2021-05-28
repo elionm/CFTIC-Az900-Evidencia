@@ -4,39 +4,39 @@
 
 Validating Virtual Machine:
 
-![01.01](D:\Dev\Practicas\Az-900\Evidencia\01.01.png)
+![01.01](Evidencia/01.01.png)
 
 The public IP:
 
-![01.02](D:\Dev\Practicas\Az-900\Evidencia\01.02.png)
+![01.02](Evidencia/01.02.png)
 
 
 
 Checking Ports 80 and 3389 are opened:
 
-![01.03](D:\Dev\Practicas\Az-900\Evidencia\01.03.png)
+![01.03](Evidencia/01.03.png)
 
 Connecting by **RDP**:
 
-![01.04](D:\Dev\Practicas\Az-900\Evidencia\01.04.png)
+![01.04](Evidencia/01.04.png)
 
 Installing the web server role:
 
-![01.05](D:\Dev\Practicas\Az-900\Evidencia\01.05.png)
+![01.05](Evidencia/01.05.png)
 
 
 
-![01.06](D:\Dev\Practicas\Az-900\Evidencia\01.06.png)
+![01.06](Evidencia/01.06.png)
 
 
 
 Default IIS Web Server welcome page:
 
-![01.07](D:\Dev\Practicas\Az-900\Evidencia\01.07.png)
+![01.07](Evidencia/01.07.png)
 
 Deleting used resource group:
 
-![01.08](D:\Dev\Practicas\Az-900\Evidencia\01.08.png)
+![01.08](Evidencia/01.08.png)
 
 
 
@@ -44,25 +44,25 @@ Deleting used resource group:
 
 Creating the App Service:
 
-![02.01](D:\Dev\Practicas\Az-900\Evidencia\02.01.png)
+![02.01](Evidencia/02.01.png)
 
 App Service Overview:
 
-![02.02](D:\Dev\Practicas\Az-900\Evidencia\02.02.png)
+![02.02](Evidencia/02.02.png)
 
 The Welcome to Azure Container Instances page:
 
-![02.03](D:\Dev\Practicas\Az-900\Evidencia\02.03.png)
+![02.03](Evidencia/02.03.png)
 
 
 
 Telemetry charts:
 
-![02.04](D:\Dev\Practicas\Az-900\Evidencia\02.04.png)
+![02.04](Evidencia/02.04.png)
 
 Disposing resource group:
 
-![02.05](D:\Dev\Practicas\Az-900\Evidencia\02.05.png)
+![02.05](Evidencia/02.05.png)
 
 # 03 - Deploy Azure Container Instances
 
@@ -100,39 +100,39 @@ Removed the resource group:
 
  Creating the virtual network:
 
-![04-01](D:\Dev\Practicas\Az-900\Evidencia\04-01.png)
+![04-01](Evidencia/04-01.png)
 
 
 
-![04-02](D:\Dev\Practicas\Az-900\Evidencia\04-02.png)
+![04-02](Evidencia/04-02.png)
 
 
 
-![04-03](D:\Dev\Practicas\Az-900\Evidencia\04-03.png)
+![04-03](Evidencia/04-03.png)
 
  Created a virtual machine:
 
-![04-04](D:\Dev\Practicas\Az-900\Evidencia\04-04.png)
+![04-04](Evidencia/04-04.png)
 
 Create a second virtual machine and tested connection between the two virtual machines:
 
-![04-05](D:\Dev\Practicas\Az-900\Evidencia\04-05.png)
+![04-05](Evidencia/04-05.png)
 
 
 
 Deployment of resources:
 
-![04-06](D:\Dev\Practicas\Az-900\Evidencia\04-06.png)
+![04-06](Evidencia/04-06.png)
 
 
 
 Virtual Network Diagram:
 
-![04-07](D:\Dev\Practicas\Az-900\Evidencia\04-07.png)
+![04-07](Evidencia/04-07.png)
 
 Deleted resource group:
 
-![04-08](D:\Dev\Practicas\Az-900\Evidencia\04-08.png)
+![04-08](Evidencia/04-08.png)
 
 
 
@@ -140,31 +140,31 @@ Deleted resource group:
 
 Creating the new storage account:
 
-![05.01](D:\Dev\Practicas\Az-900\Evidencia\05.01.png)
+![05.01](Evidencia/05.01.png)
 
 
 
-![05.02](D:\Dev\Practicas\Az-900\Evidencia\05.02.png)
+![05.02](Evidencia/05.02.png)
 
 **Storage accounts**:
 
-![05.03](D:\Dev\Practicas\Az-900\Evidencia\05.03.png)
+![05.03](Evidencia/05.03.png)
 
 Added a Container:
 
-![05.04](D:\Dev\Practicas\Az-900\Evidencia\05.04.png)
+![05.04](Evidencia/05.04.png)
 
 Uploaded some files:
 
-![05.05](D:\Dev\Practicas\Az-900\Evidencia\05.05.png)
+![05.05](Evidencia/05.05.png)
 
  Storage account **Insights**:
 
-![05.06](D:\Dev\Practicas\Az-900\Evidencia\05.06.png)
+![05.06](Evidencia/05.06.png)
 
 Deleted resource group:
 
-![05.07](D:\Dev\Practicas\Az-900\Evidencia\05.07.png)
+![05.07](Evidencia/05.07.png)
 
 
 
@@ -174,33 +174,33 @@ Deleted resource group:
 
 Creating the SQL database:
 
-![06.01](D:\Dev\Practicas\Az-900\Evidencia\06.01.png)
+![06.01](Evidencia/06.01.png)
 
 Already created database:
 
-![06.02](D:\Dev\Practicas\Az-900\Evidencia\06.02.png)
+![06.02](Evidencia/06.02.png)
 
 Error trying to Log in:
 
-![06.03](D:\Dev\Practicas\Az-900\Evidencia\06.03.png)
+![06.03](Evidencia/06.03.png)
 
 Add the IP address to Firewall settings:
 
-![06.04](D:\Dev\Practicas\Az-900\Evidencia\06.04.png)
+![06.04](Evidencia/06.04.png)
 
 
 
-![06.05](D:\Dev\Practicas\Az-900\Evidencia\06.05.png)
+![06.05](Evidencia/06.05.png)
 
 Login again and executing an SQL query:
 
-![06.06](D:\Dev\Practicas\Az-900\Evidencia\06.06.png)
+![06.06](Evidencia/06.06.png)
 
 
 
 Deleted resource group:
 
-![06.07](D:\Dev\Practicas\Az-900\Evidencia\06.07.png)
+![06.07](Evidencia/06.07.png)
 
 
 
@@ -208,29 +208,29 @@ Deleted resource group:
 
 Created the IoT Hub:
 
-![07.01](D:\Dev\Practicas\Az-900\Evidencia\07.01.png)
+![07.01](Evidencia/07.01.png)
 
 Added an IoT device to the IoT hub:
 
-![07.02](D:\Dev\Practicas\Az-900\Evidencia\07.02.png)
+![07.02](Evidencia/07.02.png)
 
 Testing the device using the Raspberry Pi Simulator:
 
-![07.03](D:\Dev\Practicas\Az-900\Evidencia\07.03.png)
+![07.03](Evidencia/07.03.png)
 
-![07.04](D:\Dev\Practicas\Az-900\Evidencia\07.04.png)
+![07.04](Evidencia/07.04.png)
 
-![07.05](D:\Dev\Practicas\Az-900\Evidencia\07.05.png)
+![07.05](Evidencia/07.05.png)
 
 
 
 **IoT Hub Usage** information:
 
-![07.06](D:\Dev\Practicas\Az-900\Evidencia\07.06.png)
+![07.06](Evidencia/07.06.png)
 
 Deleted resource group:
 
-![07.07](D:\Dev\Practicas\Az-900\Evidencia\07.07.png)
+![07.07](Evidencia/07.07.png)
 
 
 
@@ -238,35 +238,35 @@ Deleted resource group:
 
 Created the **Function App**:
 
-![08.01](D:\Dev\Practicas\Az-900\Evidencia\08.01.png)
+![08.01](Evidencia/08.01.png)
 
 Verified **Running** status:
 
-![08.02](D:\Dev\Practicas\Az-900\Evidencia\08.02.png)
+![08.02](Evidencia/08.02.png)
 
 Created a Webhook + API **Function App**:
 
-![08.03](D:\Dev\Practicas\Az-900\Evidencia\08.03.png)
+![08.03](Evidencia/08.03.png)
 
 Auto-generated code and URL:
 
-![08.04](D:\Dev\Practicas\Az-900\Evidencia\08.04.png)
+![08.04](Evidencia/08.04.png)
 
 Requested  without name parameter:
 
-![08.05](D:\Dev\Practicas\Az-900\Evidencia\08.05.png)
+![08.05](Evidencia/08.05.png)
 
 Requested  with name parameter in the URL:
 
-![08.06](D:\Dev\Practicas\Az-900\Evidencia\08.06.png)
+![08.06](Evidencia/08.06.png)
 
 Traces in the Azure portal: 
 
-![08.07](D:\Dev\Practicas\Az-900\Evidencia\08.07.png)
+![08.07](Evidencia/08.07.png)
 
 Deleted resource group:
 
-![08.08](D:\Dev\Practicas\Az-900\Evidencia\08.08.png)
+![08.08](Evidencia/08.08.png)
 
 
 
@@ -274,23 +274,23 @@ Deleted resource group:
 
 The Virtual Machine template:
 
-![09.01](D:\Dev\Practicas\Az-900\Evidencia\09.01.png)
+![09.01](Evidencia/09.01.png)
 
 
 
-![09.02](D:\Dev\Practicas\Az-900\Evidencia\09.02.png)
+![09.02](Evidencia/09.02.png)
 
 
 
-![09.03](D:\Dev\Practicas\Az-900\Evidencia\09.03.png)
+![09.03](Evidencia/09.03.png)
 
-![09.04](D:\Dev\Practicas\Az-900\Evidencia\09.04.png)
-
-
-
-![09.05](D:\Dev\Practicas\Az-900\Evidencia\09.05.png)
+![09.04](Evidencia/09.04.png)
 
 
 
-![09.06](D:\Dev\Practicas\Az-900\Evidencia\09.06.png)
+![09.05](Evidencia/09.05.png)
+
+
+
+![09.06](Evidencia/09.06.png)
 
