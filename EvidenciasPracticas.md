@@ -292,5 +292,363 @@ The Virtual Machine template:
 
 
 
+Deleted resource group:
+
 ![09.06](Evidencia/09.06.png)
+
+
+
+# 10 - Create a VM with PowerShell
+
+  Created a new resource group:
+
+![10.01](Evidencia/10.01.png)
+
+Verifying your new resource group:
+
+![10.02](Evidencia/10.02.png)
+
+Creating a virtual machine:
+
+![10.03](Evidencia/10.03.png)
+
+Verify the virtual machine is running:
+
+![10.04](Evidencia/10.04.png)
+
+Retrieving information about the virtual machine:
+
+![10.05](Evidencia/10.05.png)
+
+Stop the virtual machine:
+
+![10.06](Evidencia/10.06.png)
+
+Verifying the virtual machine state:
+
+![10.07](Evidencia/10.07.png)
+
+Deleted resource group:
+
+![10.08](Evidencia/10.08.png)
+
+
+
+# 11 - Create a VM with the CLI
+
+Create a new resource group:
+
+![11.01](Evidencia/11.01.png)
+
+Verify the resource group was created:
+
+ ![image-20210528174633060](C:\Users\Admin\AppData\Roaming\Typora\typora-user-images\image-20210528174633060.png)
+
+Create a new virtual machine:
+
+![11.03](Evidencia/11.03.png)
+
+Verify that the virtual machine is running:
+
+![11.04](Evidencia/11.04.png)
+
+Stop the virtual machine.
+
+![11.05](Evidencia/11.05.png)
+
+Deleted resource group:
+
+![11.06](Evidencia/11.06.png)
+
+
+
+# 12 - Implement Azure Key Vault
+
+
+
+Created Key vault:
+
+![12.01](Evidencia/12.01.png)
+
+
+
+![12.02](Evidencia/12.02.png)
+
+ 
+
+Create a password secret:
+
+![12.03](Evidencia/12.03.png)
+
+
+
+![12.04](Evidencia/12.04.png)
+
+
+
+Deleted resource group:
+
+![12.05](Evidencia/12.05.png)
+
+
+
+# 13 - Secure network traffic
+
+Create a Windows Server 2019 Datacenter virtual machine:
+
+![13.01](Evidencia/13.01.png)
+
+
+
+![13.02](Evidencia/13.02.png)
+
+Create a network security group:
+
+![13.03](Evidencia/13.03.png)
+
+Associated network security group with the network interface:
+
+![13.04](Evidencia/13.04.png)
+
+Attempt to connect to the virtual machine  using default settings of network security group:
+
+ ![13.05](Evidencia/13.05.png)
+
+Configuring network security group to allow RDP:
+
+![13.06](Evidencia/13.06.png)
+
+Trying again to RDP into the virtual machine:
+
+![13.07](Evidencia/13.07.png)
+
+Created a NSG outbound port rule to deny Internet access:
+
+![13.08](Evidencia/13.08.png)
+
+Deleted resource group:
+
+![13.09](Evidencia/13.09.png)
+
+
+
+# 14 - Manage access with RBAC
+
+Created a resource group and assigned a role:
+
+![14.01](Evidencia/14.01.png)
+
+Verify the Activity log:
+
+![14.02](Evidencia/14.02.png)
+
+Removing the role assignment:
+
+![14.03](Evidencia/14.03.png)
+
+Deleted resource group:
+
+![14.04](Evidencia/14.04.png)
+
+
+
+# 15 - Manage resource locks
+
+Created a resource group and configured a lock:
+
+![15.01](Evidencia/15.01.png)
+
+
+
+Test deleting the resource group:
+
+![15.02](Evidencia/15.02.png)
+
+Created  storage accounts and test deleting it:
+
+![15.03](Evidencia/15.03.png)
+
+Removed the resource lock, deleted storage accounts and resource group:
+
+![15.04](Evidencia/15.04.png)
+
+
+
+#  16 - Implement resource tagging
+
+Assigning a policy: 
+
+![16.01](Evidencia/16.01.png)
+
+
+
+Create storage accounts without the Company tag to test the required tagging:
+
+![16.02](Evidencia/16.02.png)
+
+
+
+The storage accounts created with the Company tag in the tags blade:
+
+![16.03](Evidencia/16.03.png)
+
+
+
+Filter resources by tag:
+
+![16.03](Evidencia/16.04.png)
+
+
+
+
+
+Deleted policy assignment:
+
+![16.05](Evidencia/16.05.png)
+
+
+
+Removed the resource group:
+
+![16.06](Evidencia/16.06.png)
+
+
+
+# 17 - Create an Azure Policy
+
+Assigning a location policy for Japan West only:
+
+![17.01](Evidencia/17.01.png)
+
+
+
+Test the Allowed location policy creating a resource:
+
+![17.02](Evidencia/17.02.png)
+
+
+
+Deleted the policy assignment:
+
+![17.03](Evidencia/17.03.png)
+
+Created another storage account to ensure the policy is no longer in effect:
+
+![17.04](Evidencia/17.04.png)
+
+
+
+Removed the resource group:
+
+![17.05](Evidencia/17.05.png)
+
+
+
+# 18 - Explore the Trust Center
+
+Microsoft Trust Center compliance offerings page:
+
+![18.01](Evidencia/18.01.png)
+
+
+
+ **ISO 27001**:
+
+![18.02](Evidencia/18.02.png)
+
+
+
+Service Trust Portal (STP) page:
+
+![18.03](Evidencia/18.03.png)
+
+![ ](Evidencia/18.04.png)
+
+
+
+Compliance Manager Guides:
+
+![18.05](Evidencia/18.05.png)
+
+![18.06](Evidencia/18.06.png)
+
+![18.07](Evidencia/18.07.png)
+
+![18.08](Evidencia/18.08.png)
+
+# 19 - Use the Pricing Calculator
+
+![19.01](Evidencia/19.01.png)
+
+
+
+![19.02](Evidencia/19.02.png)
+
+![19.03](Evidencia/19.03.png)
+
+![19.04](Evidencia/19.04.png)
+
+![19.05](Evidencia/19.05.png)
+
+![19.06](Evidencia/19.06.png)
+
+# 20 - Use the Azure TCO Calculator
+
+
+
+![20.01](Evidencia/20.01.png)
+
+
+
+![20.02](Evidencia/20.02.png)
+
+![20.03](Evidencia/20.03.png)
+
+
+
+![20.04](Evidencia/20.04.png)
+
+
+
+![20.05](Evidencia/20.05.png)
+
+
+
+#  21 - Calculate Composite SLAs
+
+![21.01](Evidencia/21.01.png)
+
+
+
+![21.02](Evidencia/21.02.png)
+
+![21.03](Evidencia/21.03.png)
+
+![21.04](Evidencia/21.04.png)
+
+![21.05](Evidencia/21.05.png)
+
+![21.06](Evidencia/21.06.png)
+
+![21.07](Evidencia/21.07.png)
+
+# 22 - Open a Support Request
+
+![22.01](Evidencia/22.01.png)
+
+
+
+![22.02](Evidencia/22.02.png)
+
+
+
+![22.03](Evidencia/22.03.png)
+
+
+
+![22.04](Evidencia/22.04.png)
+
+![22.05](Evidencia/22.05.png)
+
+
 
